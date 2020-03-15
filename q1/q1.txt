@@ -1,0 +1,2 @@
+Polimorfismo é quando criamos objetos que são gerados apartir de uma subclasse mas são tratados de forma genéricas, como se fossem objetos da superclasse.
+Por exemplo ao criar objetos de 'Assalariado', 'Horista' e 'Comissionado' como sendo objetos de 'Funcionario', podendo tratar cada um como funcionarios mas com comportamentos diferentes.
